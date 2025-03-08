@@ -1,2 +1,2 @@
-This my deployement link
-https://chaitanyasai19.github.io/Hotel-web/
+This is the deployement link
+https://chaitanya-2305.github.io/Hotel-web/
